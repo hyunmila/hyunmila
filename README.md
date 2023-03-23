@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there (◕‿◕)♡
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmila&theme=dracula&show_icons=true)
+![hyunmila's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmila&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula&show_icons=true)
 
 <!--
 **hyunmila/hyunmila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
